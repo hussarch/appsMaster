@@ -9,6 +9,8 @@
 	<configs>
 		<config>resource/root-context.xml</config>
 		<config>resource/spring-servlet.xml</config>
+		<config>resource/hibernate/spring-dao.xml</config>
+		<config>resource/spring-base.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
