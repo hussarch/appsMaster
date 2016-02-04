@@ -5,3 +5,4 @@
     <import resource="spring-servlet.xml"/>
     <import resource="hibernate/spring-dao.xml"/>
 </beans>
+
